@@ -1,3 +1,7 @@
 body {
     background-color: palevioletred;
 }
+
+img{
+    max-width: 100px;
+}
